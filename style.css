@@ -1,0 +1,11 @@
+h1{
+    padding: 20px;
+    text-align: center;
+}
+p{
+    padding: 50px;
+    background-color: lightskyblue;
+    border: 1px solid black;
+    text-align: justify;
+    text-indent: 10px;
+}
